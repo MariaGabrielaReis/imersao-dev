@@ -8,7 +8,7 @@ Evento de programação realizado pela Alura, de 22/03/2021 a 02/04/2021, com fo
 - [X] Mentalista e números aleatórios
 - [X] AluraFlix
 - [X] Refatorando o AluraFlix com funções
-- [ ] Tabela de classificação e objetos no JavaScript
-- [ ] Trunfo e lógica do jogo
+- [X] Tabela de classificação e objetos no JavaScript
+- [X] Trunfo e lógica do jogo
 - [ ] Trunfo, imagens, manipulação do HTML e CSS
 - [ ] Trunfo e lógica de rodadas com Javascript
