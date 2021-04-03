@@ -11,5 +11,5 @@ Evento de programação realizado pela Alura, de 22/03/2021 a 02/04/2021, com fo
 - [X] Tabela de classificação e objetos no JavaScript
 - [X] Trunfo e lógica do jogo
 - [X] Trunfo, imagens, manipulação do HTML e CSS
-- [ ] Trunfo e lógica de rodadas com Javascript
+- [X] Trunfo e lógica de rodadas com Javascript
 - [ ] Certificard
