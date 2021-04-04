@@ -12,4 +12,4 @@ Aulas e projetos: <br>
 - [X] :black_joker: Trunfo e lógica do jogo 
   - [X] Imagens e manipulação do HTML e CSS
   - [X] Lógica de rodadas
-- [ ] :globe_with_meridians: Certificard
+- [X] :globe_with_meridians: Certificard
