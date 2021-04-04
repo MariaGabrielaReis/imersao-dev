@@ -2,14 +2,14 @@
 
 Evento de programação realizado pela Alura, de 22/03/2021 a 02/04/2021, com foco na linguagem JavaScript para resolver pequenos projetos, utilizando a plataforma CodePen.io para o desenvolvimento dos códigos HTML, CSS e os scripts.
 
-- Aulas e projetos:
-- [X] Conversor de Moedas e Variáveis no JavaScript
-- [X] Calculadora e laços condicionais no JavaScript
-- [X] Mentalista e números aleatórios
-- [X] AluraFlix
-- [X] Refatorando o AluraFlix com funções
-- [X] Tabela de classificação e objetos no JavaScript
-- [X] Trunfo e lógica do jogo
-- [X] Trunfo, imagens, manipulação do HTML e CSS
-- [X] Trunfo e lógica de rodadas com Javascript
-- [ ] Certificard
+Aulas e projetos: <br>
+- [X] :moneybag: Conversor de Moedas (Variáveis) 
+- [X] :1234: Calculadora (laços condicionais) 
+- [X] :crystal_ball: Mentalista (números aleatórios) 
+- [X] :clapper: AluraFlix
+  - [X] Refatorando o AluraFlix (funções) 
+- [X] :trophy: Tabela de classificação (objetos) 
+- [X] :black_joker: Trunfo e lógica do jogo 
+  - [X] Imagens e manipulação do HTML e CSS
+  - [X] Lógica de rodadas
+- [ ] :globe_with_meridians: Certificard
